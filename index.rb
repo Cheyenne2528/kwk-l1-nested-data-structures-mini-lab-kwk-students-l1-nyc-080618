@@ -3,10 +3,14 @@ ingredients = [
     ["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
     ["swiss", "munster", "cheddar"],
-    ["mayo", "mustard", "tabasco"]
-]
+    ["mayo", "mustard", "tabasco"]]
 
 def sandwich_request(ingredients, order) 
+  ingredients = 
+    [["rye", "sourdough", "baguette"],
+    ["ham", "salami", "turkey"],
+    ["swiss", "munster", "cheddar"],
+    ["mayo", "mustard", "tabasco"]]
   # your code here!
 end
 
